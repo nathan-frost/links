@@ -19,3 +19,15 @@ body {
   color: #001e1d;
   text-decoration: none;
 }
+
+.items {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 640px;
+}
+
+.headshot {
+  display: flex;
+  align-items: center;
+}
